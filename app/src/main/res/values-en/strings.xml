@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Data List</string>
+    <string name="Titulo">Student List</string>
+    <string name="nombre">Enter name</string>
+    <string name="ing">Enter name, last name and account number:</string>
+    <string name="apellido">Enter paternal last name</string>
+    <string name="Noc">Enter account number</string>
+    <string name="sel">Select gender</string>
+    <string name="button">Add</string>
+    <string name="button3">Students</string>
+
+    <string name="inom">Enter a name</string>
+    <string name="iape">Enter a last name</string>
+    <string name="inc">Enter an account number</string>
+    <string name="incv">Enter an account number of 10 numbers</string>
+</resources>
