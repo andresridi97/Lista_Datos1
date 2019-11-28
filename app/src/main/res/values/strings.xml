@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lista_Datos</string>
+    <string name="Titulo">Lista de Alumnos</string>
+    <string name="nombre">Ingresa Nombre</string>
+    <string name="ing">Ingresa Nombre, Apellido y Número de cuenta:</string>
+    <string name="apellido">Ingresa Apellido Paterno</string>
+    <string name="Noc">Número de cuenta</string>
+    <string name="sel">Selecciona género</string>
+    <string name="button">Agregar</string>
+    <string name="button3">Alumnos</string>
+
+    <string name="inom">Ingresa un nombre</string>
+    <string name="iape">Ingresa un apellido</string>
+    <string name="inc">ingresa un número de cuenta</string>
+    <string name="incv">ingresa un número de cuenta de 10 digitos</string>
+
+</resources>
